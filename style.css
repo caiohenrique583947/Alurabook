@@ -2,6 +2,9 @@
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/rodapé.css");
+
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -12,6 +15,8 @@
     --azul: #002F52;
     --fonte-secundario: "Josefin Sans";
     --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
 }
 
 body {
